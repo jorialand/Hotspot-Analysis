@@ -21,8 +21,8 @@ def computeComplexity():
 
     # Using cloc to count lines of code
     # TODO extract complexity computation
-    cmdExecutable = Path("C:\\Users\\Horia.Ghionoiu\\Documents\\.discoduro\\Hotspot Analysis\\src\\cloc\\cloc.exe")
-    cmdCodebaseDir = Path("C:\\workcopy\\Workstation2\\Alma3D Kernel\\")
+    cmdExecutable = Path("C:\\Users\Horia.Ghionoiu\\OneDrive - Alma IT Systems, S.L\\Desktop\\personal\\Hotspot Analysis\\src\\cloc\\cloc.exe")
+    cmdCodebaseDir = Path("C:\\workcopy\\Workstation2\\")
     #cmdCodebaseDir = Path("C:\\workcopy\\Workstation2\\")
 
     # cmdCodebaseDir = Path("C:\\Users\\Horia.Ghionoiu\\Documents\\.discoduro\\Hotspot Analysis\\HotspotAnalysisTestCode")
